@@ -2,7 +2,7 @@
   "name": "node-db",
   "version": "0.1.0",
   "private": true,
-  "main": "server/server.js",
+  
   "dependencies": {
     "axios": "^0.17.1",
     "body-parser": "^1.18.2",
